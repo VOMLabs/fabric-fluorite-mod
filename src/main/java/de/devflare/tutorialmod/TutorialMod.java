@@ -1,5 +1,6 @@
 package de.devflare.tutorialmod;
 
+import de.devflare.tutorialmod.item.ModItems;
 import net.fabricmc.api.ModInitializer;
 
 import net.minecraft.resources.Identifier;
@@ -14,7 +15,7 @@ public class TutorialMod implements ModInitializer {
 
 	@Override
 	public void onInitialize() {
-
+		ModItems.registerModItems();
 	}
 
 	public static Identifier id(String path) {

@@ -7,3 +7,7 @@ For setup instructions, please see the [Fabric Documentation page](https://docs.
 ## License
 
 This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+
+## Tutorial
+
+[Click here](https://youtu.be/aGNswCl7hcU?si=LHzRU3HOzdny3wDh)

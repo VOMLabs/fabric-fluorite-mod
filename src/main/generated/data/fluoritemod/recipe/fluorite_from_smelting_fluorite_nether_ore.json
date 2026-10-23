@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "blocks",
+  "cookingtime": 200,
+  "experience": 0.25,
+  "group": "Fluorite",
+  "ingredient": "fluoritemod:fluorite_nether_ore",
+  "result": {
+    "id": "fluoritemod:fluorite"
+  }
+}

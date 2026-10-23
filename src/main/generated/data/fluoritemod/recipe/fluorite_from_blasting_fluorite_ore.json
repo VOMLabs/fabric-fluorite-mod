@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "category": "blocks",
+  "cookingtime": 100,
+  "experience": 0.25,
+  "group": "Fluorite",
+  "ingredient": "fluoritemod:fluorite_ore",
+  "result": {
+    "id": "fluoritemod:fluorite"
+  }
+}

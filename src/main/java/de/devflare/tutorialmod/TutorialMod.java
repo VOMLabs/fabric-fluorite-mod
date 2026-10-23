@@ -1,6 +1,7 @@
 package de.devflare.tutorialmod;
 
-import de.devflare.tutorialmod.creativeModeTab.ModCreativeModeTabs;
+import de.devflare.tutorialmod.block.ModBlocks;
+import de.devflare.tutorialmod.creativemodetab.ModCreativeModeTabs;
 import de.devflare.tutorialmod.item.ModItems;
 import net.fabricmc.api.ModInitializer;
 
@@ -21,6 +22,7 @@ public class TutorialMod implements ModInitializer {
     @Override
     public void onInitialize() {
         ModItems.registerModItems();
+        ModBlocks.registerModBlocks();
 
 		ModCreativeModeTabs.registerModCreativeModeTabs();
     }

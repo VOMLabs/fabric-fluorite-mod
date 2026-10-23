@@ -8,6 +8,7 @@ import net.minecraft.core.HolderLookup;
 import net.minecraft.data.recipes.RecipeCategory;
 import net.minecraft.data.recipes.RecipeOutput;
 import net.minecraft.data.recipes.RecipeProvider;
+import net.minecraft.world.item.Items;
 import net.minecraft.world.item.crafting.CookingBookCategory;
 import net.minecraft.world.level.ItemLike;
 
@@ -45,6 +46,16 @@ public class ModRecipeProvider extends FabricRecipeProvider {
                 shapeless(RecipeCategory.MISC, ModItems.RAW_FLUORITE, 9)
                         .requires(ModBlocks.RAW_FLUORITE_BLOCK)
                         .unlockedBy(getHasName(ModBlocks.RAW_FLUORITE_BLOCK), has(ModBlocks.RAW_FLUORITE_BLOCK))
+                        .group("fluorite")
+                        .save(output);
+
+                shaped(RecipeCategory.TOOLS, ModItems.CHISEL)
+                        .pattern("  F")
+                        .pattern(" S ")
+                        .pattern("S  ")
+                        .define('F', ModItems.FLUORITE)
+                        .define('S', Items.STICK)
+                        .unlockedBy(getHasName(ModItems.FLUORITE), has(ModItems.FLUORITE))
                         .group("fluorite")
                         .save(output);
             }

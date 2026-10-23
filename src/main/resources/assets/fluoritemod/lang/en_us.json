@@ -1,6 +1,10 @@
 {
   "item.fluoritemod.fluorite": "Fluorite",
   "item.fluoritemod.raw_fluorite": "Raw Fluorite",
+  "item.fluoritemod.chisel": "Chisel",
+
+  "item.fluoritemod.chisel.tooltip": "Press Shift to learn more...",
+  "item.fluoritemod.chisel.tooltip.header": "Chiselable blocks:",
 
   "block.fluoritemod.fluorite_block": "Block of Fluorite",
   "block.fluoritemod.raw_fluorite_block": "Block of Raw Fluorite",

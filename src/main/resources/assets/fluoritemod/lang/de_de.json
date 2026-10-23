@@ -1,6 +1,10 @@
 {
   "item.fluoritemod.fluorite": "Fluorit",
   "item.fluoritemod.raw_fluorite": "Rohfluorit",
+  "item.fluoritemod.chisel": "Meißel",
+
+  "item.fluoritemod.chisel.tooltip": "Umschalttaste halten für mehr Infos...",
+  "item.fluoritemod.chisel.tooltip.header": "Meißelbare Blöcke:",
 
   "block.fluoritemod.fluorite_block": "Fluoritblock",
   "block.fluoritemod.raw_fluorite_block": "Rohfluoritblock",

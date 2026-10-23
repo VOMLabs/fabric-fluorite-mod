@@ -18,6 +18,9 @@
 		"main": [
 			"com.vomlabs.fluoritemod.FluoriteMod"
 		],
+		"client": [
+			"com.vomlabs.fluoritemod.FluoriteModClient"
+		],
 		"fabric-datagen": [
 			"com.vomlabs.fluoritemod.FluoriteModDataGenerator"
 		]

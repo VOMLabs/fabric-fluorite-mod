@@ -1,4 +1,4 @@
-# Tutorial Mod
+# Fluorite
 
 ## Setup
 

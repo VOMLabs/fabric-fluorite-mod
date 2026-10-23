@@ -1,0 +1,14 @@
+{
+  "item.fluoritemod.fluorite": "Fluorit",
+  "item.fluoritemod.raw_fluorite": "Rohfluorit",
+
+  "block.fluoritemod.fluorite_block": "Fluoritblock",
+  "block.fluoritemod.raw_fluorite_block": "Rohfluoritblock",
+  "block.fluoritemod.fluorite_ore": "Fluorit-Erz",
+  "block.fluoritemod.fluorite_deepslate_ore": "Tiefenschiefer-Fluoriterz",
+  "block.fluoritemod.fluorite_nether_ore": "Nether-Fluoriterz",
+  "block.fluoritemod.fluorite_end_ore": "End-Fluoriterz",
+
+  "creativemodetab.fluoritemod.fluorite_items": "Fluorit-Gegenstände",
+  "creativemodetab.fluoritemod.fluorite_blocks": "Fluorit-Blöcke"
+}

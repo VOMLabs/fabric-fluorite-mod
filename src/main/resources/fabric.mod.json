@@ -1,9 +1,9 @@
 {
 	"schemaVersion": 1,
-	"id": "tutorialmod",
+	"id": "fluoritemod",
 	"version": "${version}",
-	"name": "Tutorial Mod",
-	"description": "This is a tutorial mod!",
+	"name": "Fluorite",
+	"description": "Adds fluorite ore, blocks, and items to Minecraft.",
 	"authors": [
 		"ItzzMateo"
 	],
@@ -12,18 +12,18 @@
 		"sources": "https://github.com/FabricMC/fabric-example-mod"
 	},
 	"license": "Apache-2.0",
-	"icon": "assets/tutorialmod/icon.png",
+	"icon": "assets/fluoritemod/icon.png",
 	"environment": "*",
 	"entrypoints": {
 		"main": [
-			"de.devflare.tutorialmod.TutorialMod"
+			"com.vomlabs.fluoritemod.FluoriteMod"
 		],
 		"fabric-datagen": [
-			"de.devflare.tutorialmod.TutorialModDataGenerator"
+			"com.vomlabs.fluoritemod.FluoriteModDataGenerator"
 		]
 	},
 	"mixins": [
-		"tutorialmod.mixins.json"
+		"fluoritemod.mixins.json"
 	],
 	"depends": {
 		"fabricloader": ">=0.19.5",

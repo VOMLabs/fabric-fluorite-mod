@@ -1,0 +1,14 @@
+{
+  "item.fluoritemod.fluorite": "Fluorite",
+  "item.fluoritemod.raw_fluorite": "Raw Fluorite",
+
+  "block.fluoritemod.fluorite_block": "Block of Fluorite",
+  "block.fluoritemod.raw_fluorite_block": "Block of Raw Fluorite",
+  "block.fluoritemod.fluorite_ore": "Fluorite Ore",
+  "block.fluoritemod.fluorite_deepslate_ore": "Fluorite Deepslate Ore",
+  "block.fluoritemod.fluorite_nether_ore": "Fluorite Nether Ore",
+  "block.fluoritemod.fluorite_end_ore": "Fluorite End Ore",
+
+  "creativemodetab.fluoritemod.fluorite_items": "Fluorite Items",
+  "creativemodetab.fluoritemod.fluorite_blocks": "Fluorite Blocks"
+}

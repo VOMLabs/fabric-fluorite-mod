@@ -1,0 +1,7 @@
+// 26.1.2	-999999999-01-01T00:00:00	Fluorite/Block Loot Tables
+cc0a143992c8338ecc1ad28a46fb47a4c62a90d6 data/fluoritemod/loot_table/blocks/fluorite_block.json
+a24c59a4d10121500dc6ad94f6c6b5db0a7d9810 data/fluoritemod/loot_table/blocks/fluorite_deepslate_ore.json
+254672d0426884230680f99c4edc0fe823943e12 data/fluoritemod/loot_table/blocks/fluorite_end_ore.json
+cfb0a1286fac57bdcda455fbf9dade7241647a8a data/fluoritemod/loot_table/blocks/fluorite_nether_ore.json
+0a8a3ff5c2a4ca9d5a4e6fac47eb62e1a3594714 data/fluoritemod/loot_table/blocks/fluorite_ore.json
+75716b70f0626024483b278dc5cf5476587aa726 data/fluoritemod/loot_table/blocks/raw_fluorite_block.json

@@ -14,4 +14,4 @@ pluginManagement {
 }
 
 // Should match your modid
-rootProject.name = "tutorialmod"
+rootProject.name = "fluoritemod"

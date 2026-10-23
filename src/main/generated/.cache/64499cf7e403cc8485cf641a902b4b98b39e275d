@@ -1,0 +1,4 @@
+// 26.1.2	-999999999-01-01T00:00:00	Fluorite/Tags for minecraft:block
+ee12bf70258e4e2fd9084c2cb10446214c4e041f data/minecraft/tags/block/mineable/pickaxe.json
+b257e07d56f4e641ce8ff1035272d901bdc82dec data/minecraft/tags/block/needs_diamond_tool.json
+29dae1b654409ef330d76b28c412f2a861d9cc83 data/minecraft/tags/block/needs_iron_tool.json

@@ -14,7 +14,7 @@ repositories {
 fabricApi {
 	configureDataGeneration {
 		client = true
-		modId = "tutorialmod"
+		modId = "fluoritemod"
 	}
 }
 
